@@ -1,2 +1,2 @@
 # git-demo-learn
-This is a practice Repo
+This is a practice Repository
